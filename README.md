@@ -1,10 +1,7 @@
 <img src="https://raw.githubusercontent.com/trisfaizal/trisfaizal/master/banner.png"/>
 
 ### Hi there 👋 Nice to meet you...
-Meet me at:
-  - 🌐 [Blog](www.trisf.my.id) 
-  - 🔭 [Telegram Channel](https://t.me/iLumbung) 
-  - 💬 [Telegram group](https://t.me/dauntlessfaction) 
+- 🌐 [My Blog](https://trisf.my.id) - 💬 [Telegram group](https://t.me/dauntlessfaction) - 🔭 [Telegram Channel](https://t.me/iLumbung) -
 
 <!--
 **trisfaizal/trisfaizal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
