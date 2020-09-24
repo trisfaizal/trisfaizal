@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/trisfaizal/trisfaizal/master/banner.png"/>
+
 ### Hi there 👋
 
 <!--
