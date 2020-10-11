@@ -1,7 +1,11 @@
 <img src="https://raw.githubusercontent.com/trisfaizal/trisfaizal/master/banner.png"/>
 
 ### Hi there 👋 Nice to meet you...
-🌐 [My Blog](https://trisf.my.id) 💬 [Telegram group](https://t.me/dauntlessfaction) 🔭 [Telegram Channel](https://t.me/iLumbung)
+🌐 [My Blog](https://trisf.my.id) 
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white&link=https://t.me/trisf)](https://t.me/trisf) 
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Group&logoColor=white&link=https://t.me/dauntlessfaction)](https://t.me/dauntlessfaction) 
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Channel&logoColor=white&link=https://t.me/iLumbung)](https://t.me/iLumbung) 
+
 
 | **SUMARY**                                                                                                                                              | **LANGUAGES**                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
