@@ -2,6 +2,8 @@
 
 ### Hi there 👋 Nice to meet you... 
 
+🌐 [My Blog](https://trisf.my.id) 💬 [Telegram group](https://t.me/dauntlessfaction) 🔭 [Telegram Channel](https://t.me/trisfproject)
+
 | **SUMARY**                                                                                                                                              | **LANGUAGES**                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![trisf github stats](https://github-readme-stats.vercel.app/api?username=trisfaizal&show_icons=true)](https://github.com/trisfaizal/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trisfaizal&layout=compact)](https://github.com/trisfaizal/github-readme-stats) |
