@@ -1,29 +1,25 @@
-<img src="https://raw.githubusercontent.com/trisfaizal/trisfaizal/master/banner.png"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/trisfaizal/trisfaizal/master/banner.png"/>
+</p>
 
-### Hi there 👋 Nice to meet you... 
+### Hi there 👋 Nice to meet you...
 
-🌐 [My Blog](https://trisf.my.id) 💬 [Telegram group](https://t.me/dauntlessfaction) 🔭 [Telegram Channel](https://t.me/trisfproject)
+🌐 [My Blog](https://trisf.my.id)  
+💬 [Telegram Group](https://t.me/dauntlessfaction)  
+📡 [Telegram Channel](https://t.me/trisfproject)
 
-| **SUMARY**                                                                                                                                              | **LANGUAGES**                                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![trisf github stats](https://github-readme-stats.vercel.app/api?username=trisfaizal&show_icons=true)](https://github.com/trisfaizal/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trisfaizal&layout=compact)](https://github.com/trisfaizal/github-readme-stats) |
+---
 
-[![Download trisf](https://img.shields.io/sourceforge/dt/trisf.svg)](https://sourceforge.net/projects/trisf/files/) 
-[![Download trisf](https://img.shields.io/sourceforge/dm/trisf.svg)](https://sourceforge.net/projects/trisf/files/) 
-[![Download trisf](https://img.shields.io/sourceforge/dw/trisf.svg)](https://sourceforge.net/projects/trisf/files/)
-[![Download trisf](https://img.shields.io/sourceforge/dd/trisf.svg)](https://sourceforge.net/projects/trisf/files/)
+## 📊 GitHub Analytics
 
-<!--
-**trisfaizal/trisfaizal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=trisfaizal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trisfaizal&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=trisfaizal&theme=tokyonight&hide_border=true" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
