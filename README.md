@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/trisfaizal/trisfaizal/master/banner.png" alt="TRISF futuristic infrastructure command center banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/trisfaizal/trisfaizal/master/banner.svg" alt="TRISF futuristic infrastructure command center banner" width="100%" />
 </p>
 
 <p align="center">
@@ -19,9 +19,7 @@
   <img src="https://img.shields.io/badge/SECURE%20ENVIRONMENT-HARDENED-00E5FF?style=for-the-badge&labelColor=0B0F14&color=00E5FF" alt="Secure environment" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00FF9C" width="84%" alt="Neon divider" />
-</p>
+---
 
 ## `root@trisf:~# initialize_profile`
 
@@ -43,9 +41,7 @@ root@trisf:~# systemctl status trisf-core
    Health: hardened | monitored | automated | cloud-ready
 ```
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=00FF9C" width="72%" alt="Green divider" />
-</p>
+---
 
 ## Infrastructure Matrix
 
@@ -120,9 +116,7 @@ root@trisf:~# systemctl status trisf-core
   <img src="https://raw.githubusercontent.com/trisfaizal/trisfaizal/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00FF9C" width="84%" alt="Neon divider" />
-</p>
+---
 
 ## Secure Channel
 

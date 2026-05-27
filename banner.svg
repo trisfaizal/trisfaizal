@@ -1,0 +1,78 @@
+<svg width="1600" height="500" viewBox="0 0 1600 500" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">TRISF infrastructure command center banner</title>
+  <desc id="desc">Lightweight futuristic DevSecOps dashboard banner for GitHub profile.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#030607"/>
+      <stop offset="0.5" stop-color="#08110F"/>
+      <stop offset="1" stop-color="#020405"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#00FF9C" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00FF9C"/>
+      <stop offset="1" stop-color="#00E5FF" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#00FF9C" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="500" fill="url(#bg)"/>
+  <rect width="1600" height="500" fill="url(#grid)"/>
+  <path d="M0 64H1600M0 436H1600" stroke="url(#line)" stroke-width="2"/>
+  <path d="M170 110H500M1100 110H1430M170 390H500M1100 390H1430" stroke="#00E5FF" stroke-opacity=".18"/>
+
+  <rect x="70" y="92" width="330" height="130" rx="12" fill="#07100E" stroke="#1C3D37"/>
+  <rect x="70" y="248" width="330" height="160" rx="12" fill="#07100E" stroke="#1C3D37"/>
+  <rect x="1200" y="92" width="330" height="130" rx="12" fill="#07100E" stroke="#1C3D37"/>
+  <rect x="1200" y="248" width="330" height="160" rx="12" fill="#07100E" stroke="#1C3D37"/>
+  <rect x="450" y="70" width="700" height="360" rx="20" fill="#06100D" stroke="#00FF9C" stroke-opacity=".55"/>
+
+  <text x="102" y="132" fill="#8FFFE0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700">SYSTEM OVERVIEW</text>
+  <text x="102" y="168" fill="#00FF9C" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" font-weight="700">OPERATIONAL</text>
+  <path d="M104 195C133 178 154 207 180 192C211 174 239 208 266 190C296 170 325 196 366 182" stroke="#00FF9C" stroke-width="3" stroke-linecap="round"/>
+
+  <text x="102" y="288" fill="#8FFFE0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700">CLUSTER HEALTH</text>
+  <text x="104" y="345" fill="#F2FFF9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="42" font-weight="700">98%</text>
+  <text x="215" y="345" fill="#F2FFF9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="42" font-weight="700">94%</text>
+  <text x="322" y="345" fill="#F2FFF9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="42" font-weight="700">99%</text>
+  <text x="106" y="372" fill="#00FF9C" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">NODES</text>
+  <text x="220" y="372" fill="#00FF9C" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">PODS</text>
+  <text x="328" y="372" fill="#00FF9C" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">EDGE</text>
+
+  <text x="1228" y="132" fill="#8FFFE0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700">SECURITY POSTURE</text>
+  <text x="1228" y="174" fill="#00FF9C" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="28" font-weight="700">SECURE</text>
+  <text x="1228" y="201" fill="#B6C7C0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">No critical issues</text>
+  <circle cx="1466" cy="134" r="6" fill="#00FF9C" filter="url(#softGlow)"/>
+  <circle cx="1495" cy="134" r="6" fill="#00E5FF" filter="url(#softGlow)"/>
+
+  <text x="1228" y="288" fill="#8FFFE0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700">NETWORK TRAFFIC</text>
+  <path d="M1230 345C1270 322 1300 356 1338 331C1376 306 1400 350 1436 326C1469 304 1496 328 1515 318" stroke="#00E5FF" stroke-width="3" stroke-linecap="round"/>
+  <text x="1230" y="378" fill="#F2FFF9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="28" font-weight="700">ENCRYPTED</text>
+
+  <text x="498" y="112" fill="#00FF9C" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">trisfaizal@infrastructure:~</text>
+  <circle cx="1102" cy="106" r="5" fill="#00FF9C"/>
+  <circle cx="1125" cy="106" r="5" fill="#00E5FF"/>
+  <circle cx="1148" cy="106" r="5" fill="#61756F"/>
+  <text x="800" y="250" text-anchor="middle" fill="#00FF9C" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="132" font-weight="900" letter-spacing="12" filter="url(#softGlow)">TRISF</text>
+
+  <rect x="512" y="292" width="210" height="54" rx="10" fill="#081714" stroke="#274940"/>
+  <rect x="744" y="292" width="210" height="54" rx="10" fill="#081714" stroke="#274940"/>
+  <rect x="976" y="292" width="124" height="54" rx="10" fill="#081714" stroke="#274940"/>
+  <text x="617" y="326" text-anchor="middle" fill="#F2FFF9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">DEVSECOPS</text>
+  <text x="849" y="326" text-anchor="middle" fill="#F2FFF9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">CLOUD NATIVE</text>
+  <text x="1038" y="326" text-anchor="middle" fill="#F2FFF9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">LINUX</text>
+
+  <path d="M620 380H980" stroke="#00FF9C" stroke-opacity=".5"/>
+  <circle cx="660" cy="380" r="7" fill="#00FF9C"/>
+  <circle cx="800" cy="380" r="7" fill="#00E5FF"/>
+  <circle cx="940" cy="380" r="7" fill="#00FF9C"/>
+  <text x="800" y="410" text-anchor="middle" fill="#8FFFE0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">SECURE AUTOMATION :: OBSERVABILITY :: INFRASTRUCTURE SYSTEMS</text>
+</svg>
