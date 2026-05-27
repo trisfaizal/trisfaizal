@@ -119,10 +119,10 @@ root@trisf:~# systemctl status trisf-core
 ## Secure Channel
 
 <p align="center">
-  <a href="https://t.me/your_username">
+  <a href="https://t.me/trisf">
     <img src="https://img.shields.io/badge/Telegram-0B0F14?style=for-the-badge&logo=telegram&logoColor=00E5FF" alt="Telegram" />
   </a>
-  <a href="https://instagram.com/your_username">
+  <a href="https://instagram.com/trisfproject">
     <img src="https://img.shields.io/badge/Instagram-0B0F14?style=for-the-badge&logo=instagram&logoColor=00FF9C" alt="Instagram" />
   </a>
   <a href="https://github.com/trisfaizal">
