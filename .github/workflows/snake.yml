@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: false
+
 jobs:
   generate:
     name: Generate dark contribution graph
@@ -16,7 +20,7 @@ jobs:
 
     steps:
       - name: Generate snake SVG
-        uses: Platane/snk@v3.5.0
+        uses: Platane/snk/svg-only@v3.5.0
         with:
           github_user_name: trisfaizal
           outputs: |

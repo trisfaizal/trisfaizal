@@ -99,21 +99,19 @@ root@trisf:~# systemctl status trisf-core
   </tr>
 </table>
 
-## GitHub Analytics
+## Telemetry Dashboard
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=trisfaizal&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&icon_color=00E5FF" alt="GitHub stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trisfaizal&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" alt="Top languages" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=trisfaizal&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true&amp;rank_icon=github&amp;bg_color=0D1117&amp;title_color=00FF9C&amp;text_color=C9D1D9&amp;icon_color=00E5FF&amp;border_radius=8&amp;cache_seconds=21600" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=trisfaizal&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;card_width=445&amp;bg_color=0D1117&amp;title_color=00FF9C&amp;text_color=C9D1D9&amp;border_radius=8&amp;cache_seconds=21600" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=trisfaizal&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00FF9C&sideLabels=00E5FF&dates=8B949E" alt="GitHub streak" />
+  <img width="98%" src="https://streak-stats.demolab.com?user=trisfaizal&amp;hide_border=true&amp;background=0D1117&amp;ring=00FF9C&amp;fire=00FF9C&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;currStreakLabel=00FF9C&amp;sideLabels=00E5FF&amp;dates=8B949E&amp;border_radius=8&amp;card_width=980" alt="GitHub streak" />
 </p>
 
-## Contribution Signal
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/trisfaizal/trisfaizal/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
+  <img src="https://raw.githubusercontent.com/trisfaizal/trisfaizal/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
